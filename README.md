@@ -41,7 +41,7 @@
 <h2>▶️ How to Run</h2>
 <pre>
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/SamUpid/FlappyBird.git
 2. Open the project in your Java IDE.
 3. Compile and run FlappyBird.java.
 </pre>
@@ -54,3 +54,4 @@
 
 <h2>👤 Author</h2>
 <p>Developed by <strong>Neeraj Kumar</strong></p>
+
